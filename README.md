@@ -5,4 +5,4 @@ Output becomes converted_image_for_berryboot.img
 
 Usage:
 
-./mksquashfs.sh <image-to-convert>
+./mksquashfs.sh image_to_convert.img
