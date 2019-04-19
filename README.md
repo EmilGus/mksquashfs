@@ -13,4 +13,6 @@ Tested on:
 
 RetroPie 4.4 (Worked)
 
+Rasbian Stretch (Worked)
+
 OSMC_TGT_rbp2_20190105.img (doesn't work)
